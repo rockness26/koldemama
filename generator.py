@@ -2,7 +2,7 @@ import random
 import sys
 from visualization import SongVisual
 #from empty import SongVisual
-#keeping a copy there before i fuck itup
+#keeping a copy ther
 import random
 import string
 
